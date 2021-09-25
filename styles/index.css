@@ -15,3 +15,9 @@
 	background-image: url('../images/ccfmusic1.jpeg');
 }
 
+.img-adjust {
+   display: block;
+  max-width: 100%;
+  height: auto;
+}
+
