@@ -1,6 +1,6 @@
 * { 
 	font-family: 'Roboto', sans-serif;
-	font-size:18px;
+	font-size:15px;
 }
 
 .bg-maroon {
@@ -21,3 +21,41 @@
   height: auto;
 }
 
+.card-width {
+	width: 18rem;
+}
+
+.bar-width-html {
+	width: 80%;
+	height: 15px;
+
+}
+
+.bar-width-bootstrap {
+	width: 70%;
+	height: 15px;
+
+}
+
+.bar-width-vue {
+	width: 60%;
+	height: 15px;
+
+}
+
+.bar-width-infraskills {
+	width: 90%;
+	height: 15px;
+
+}
+
+
+.bar-height {
+
+	height: 15px;
+}
+
+.mapdimension{
+	width: 100%;
+	height: 500px;
+}
