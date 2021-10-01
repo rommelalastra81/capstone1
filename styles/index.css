@@ -1,6 +1,6 @@
 * { 
 	font-family: 'Roboto', sans-serif;
-	font-size:15px;
+	font-size:18px;
 }
 
 .bg-maroon {
@@ -9,10 +9,6 @@
 
 .bg-gray {
 	background-color: #A9A9A9;
-}
-
-.bg-image1 {
-	background-image: url('../images/ccfmusic1.jpeg');
 }
 
 .img-adjust {
@@ -58,4 +54,16 @@
 .mapdimension{
 	width: 100%;
 	height: 500px;
+}
+
+@media only screen and (max-width: 1024px) {
+  .icon-adjust {
+  	font-size: 3em;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .font-adjust {
+  	font-size: 15px;
+  }
 }
